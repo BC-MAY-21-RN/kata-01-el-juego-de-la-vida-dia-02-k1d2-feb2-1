@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "kata-01-el-juego-de-la-vida-dia-02-k1d2-feb2-1",
+  "description": "![BrightCoders Logo](img/logo-bc.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-02-k1d2-feb2-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-02-k1d2-feb2-1/issues"
+  },
+  "homepage": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-02-k1d2-feb2-1#readme"
+}
